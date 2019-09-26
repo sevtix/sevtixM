@@ -1,0 +1,9 @@
+C:\Users\Severin\source\repos\sevtixM\sevtixM\bin\Debug\sevtixM.net.dll
+C:\Users\Severin\source\repos\sevtixM\sevtixM\bin\Debug\sevtixM.net.pdb
+C:\Users\Severin\source\repos\sevtixM\sevtixM\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\Severin\source\repos\sevtixM\sevtixM\bin\Debug\CitizenFX.Core.dll
+C:\Users\Severin\source\repos\sevtixM\sevtixM\bin\Debug\MenuAPI.net.dll
+C:\Users\Severin\source\repos\sevtixM\sevtixM\obj\Debug\sevtixM.csproj.CoreCompileInputs.cache
+C:\Users\Severin\source\repos\sevtixM\sevtixM\obj\Debug\sevtixM.csproj.CopyComplete
+C:\Users\Severin\source\repos\sevtixM\sevtixM\obj\Debug\sevtixM.net.dll
+C:\Users\Severin\source\repos\sevtixM\sevtixM\obj\Debug\sevtixM.net.pdb
